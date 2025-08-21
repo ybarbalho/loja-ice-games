@@ -2,10 +2,10 @@
 
 ## 📑 Índice
 
-- [Visão Geral](#visao-geral)
-- [Recursos](#recursos)
-- [Análises Realizadas](#analises-realizadas)
-- [Objetivo Final](#objetivo-final)
+- 🔭 [Visão Geral](#visao-geral)
+- 🔧 [Recursos](#recursos)
+- 📊 [Análises Realizadas](#analises-realizadas)
+- 🎯 [Objetivo Final](#objetivo-final)
 
 ---
 
