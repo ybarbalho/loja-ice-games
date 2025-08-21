@@ -1,6 +1,6 @@
 # Projeto Ice Games 🎮
 
-## Índice
+## 📑 Índice
 
 - [Visão Geral](#visao-geral)
 - [Recursos](#recursos)
